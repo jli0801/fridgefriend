@@ -25,7 +25,7 @@
         android:entries = "@array/allergies_display"
         android:entryValues="@array/allergies_values"
         android:defaultValue="@array/empty"
-        android:summary="%s" />
+        android:summary="" />
 
         <Preference
             android:clickable="true"
